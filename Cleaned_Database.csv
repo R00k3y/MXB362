@@ -1,0 +1,81 @@
+﻿Region,Category,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
+Taitokerau,violent offence,616,711,697,618,546,636,670,543,519,564
+Taitokerau,harmful digital communications,0,0,0,1,2,6,0,1,1,2
+Taitokerau,drug offences,280,292,281,253,282,271,266,165,199,184
+Taitokerau,driving under influence,972,1054,979,806,897,787,944,875,933,980
+Taitokerau,Family violence  ,692,817,772,695,635,721,749,640,647,709
+Waitemata,violent offence,605,597,676,637,697,589,603,377,485,552
+Waitemata,harmful digital communications,0,0,1,7,0,3,6,2,1,2
+Waitemata,drug offences,408,379,376,378,345,280,233,120,158,154
+Waitemata,driving under influence,1761,1437,1506,1525,1588,1365,1332,959,1388,1255
+Waitemata,Family violence  ,816,864,863,854,914,875,817,544,644,732
+Auckland,violent offence,901,921,981,894,909,875,878,642,931,1090
+Auckland,harmful digital communications,0,0,2,2,0,5,5,7,4,3
+Auckland,drug offences,566,524,529,517,450,435,391,257,335,364
+Auckland,driving under influence,1709,1554,1584,1467,1536,1139,1009,781,1278,1221
+Auckland,Family violence  ,885,903,961,851,859,899,931,709,950,1022
+South Auckland ,violent offence,1176,1321,1405,1411,1311,1155,1375,909,1195,1293
+South Auckland ,harmful digital communications,0,0,3,1,1,5,4,1,8,6
+South Auckland ,drug offences,456,432,507,456,457,445,400,240,294,299
+South Auckland ,driving under influence,2175,1967,1656,2034,2043,1795,1584,1366,1867,1781
+South Auckland ,Family violence  ,1422,1483,1638,1595,1586,1460,1767,1367,1687,1819
+Waikato,violent offence,910,1028,1064,1111,1068,931,1012,767,823,922
+Waikato,harmful digital communications,0,0,1,7,10,2,7,5,7,4
+Waikato,drug offences,417,389,437,471,439,343,379,234,217,260
+Waikato,driving under influence,1410,1400,1428,1424,1401,1217,1455,1216,1290,1296
+Waikato,Family violence  ,849,1070,1092,1129,1105,1106,1171,861,967,1009
+Bay of plenty ,violent offence,825,795,852,858,806,749,765,648,680,665
+Bay of plenty ,harmful digital communications,0,2,2,2,1,4,7,4,4,5
+Bay of plenty ,drug offences,358,331,359,380,334,307,286,218,218,230
+Bay of plenty ,driving under influence,1200,1140,1207,1279,1217,991,1282,1104,1232,1075
+Bay of plenty ,Family violence  ,925,971,1046,982,928,968,889,735,763,799
+Waiariki,violent offence,714,863,821,782,733,668,698,670,693,678
+Waiariki,harmful digital communications,0,1,2,1,2,3,3,5,1,2
+Waiariki,drug offences,257,313,294,290,305,297,278,244,259,260
+Waiariki,driving under influence,734,679,712,704,669,633,691,603,794,742
+Waiariki,Family violence  ,914,1000,1034,969,918,898,926,823,815,848
+East Coast ,violent offence,881,937,964,966,839,856,864,731,642,693
+East Coast ,harmful digital communications,0,0,2,3,6,6,2,6,11,4
+East Coast ,drug offences,293,343,321,376,341,343,344,276,291,299
+East Coast ,driving under influence,1215,982,915,1133,1161,1193,1125,1050,1113,1276
+East Coast ,Family violence  ,1080,1162,1192,1195,1122,1094,1121,949,877,955
+Taranaki/Whanganui,violent offence,599,691,678,651,637,640,675,539,556,545
+Taranaki/Whanganui,harmful digital communications,0,1,2,1,2,2,6,4,4,4
+Taranaki/Whanganui,drug offences,242,238,273,260,223,204,175,133,148,143
+Taranaki/Whanganui,driving under influence,714,711,726,659,711,685,719,628,769,638
+Taranaki/Whanganui,Family violence  ,621,735,779,757,717,769,821,634,699,693
+Manawatu/Wairarapa,violent offence,601,661,599,598,625,545,617,456,476,511
+Manawatu/Wairarapa,harmful digital communications,0,0,1,2,5,1,5,2,3,3
+Manawatu/Wairarapa,drug offences,218,231,237,292,286,228,248,189,177,179
+Manawatu/Wairarapa,driving under influence,739,677,680,717,800,673,760,594,708,592
+Manawatu/Wairarapa,Family violence  ,792,923,845,851,857,790,789,639,716,706
+Northern Wellington,violent offence,509,530,529,474,441,365,409,331,333,287
+Northern Wellington,harmful digital communications,0,0,1,4,7,7,9,7,2,13
+Northern Wellington,drug offences,140,170,195,207,221,191,164,104,111,91
+Northern Wellington,driving under influence,769,726,727,714,755,710,631,519,606,600
+Northern Wellington,Family violence  ,669,779,901,777,757,684,630,492,507,527
+Wellington,violent offence,388,430,414,434,380,328,312,355,342,346
+Wellington,harmful digital communications,0,0,1,2,2,0,1,1,2,7
+Wellington,drug offences,135,163,176,198,191,169,173,163,112,133
+Wellington,driving under influence,435,429,405,348,311,331,282,216,216,268
+Wellington,Family violence  ,488,495,454,443,425,364,338,304,305,298
+Nelson/Marlborough/West Coast,violent offence,437,483,507,443,393,333,408,320,408,409
+Nelson/Marlborough/West Coast,harmful digital communications,0,2,9,7,4,3,12,5,4,4
+Nelson/Marlborough/West Coast,drug offences,241,226,278,237,218,181,175,101,168,155
+Nelson/Marlborough/West Coast,driving under influence,597,506,601,710,725,604,720,587,659,715
+Nelson/Marlborough/West Coast,Family violence  ,524,593,612,512,458,429,510,426,487,464
+Canterbury,violent offence,983,976,961,927,973,919,852,837,821,909
+Canterbury,harmful digital communications,0,2,10,4,7,5,6,11,7,5
+Canterbury,drug offences,360,454,500,442,497,543,425,421,451,508
+Canterbury,driving under influence,2028,1677,1645,1492,1437,1272,1508,1382,1391,1570
+Canterbury,Family violence  ,987,1142,1079,1088,1131,1130,1113,929,934,1008
+Otago,violent offence,518,573,556,587,472,480,438,351,370,393
+Otago,harmful digital communications,0,1,3,7,6,9,11,9,4,7
+Otago,drug offences,150,159,175,189,160,129,138,112,106,162
+Otago,driving under influence,592,578,605,664,688,549,663,589,623,666
+Otago,Family violence  ,629,704,716,713,640,710,573,462,443,453
+Southland,violent offence,402,484,415,392,343,284,301,279,227,279
+Southland,harmful digital communications,0,3,3,5,4,3,2,5,1,3
+Southland,drug offences,123,125,164,131,113,131,117,87,89,135
+Southland,driving under influence,611,634,695,648,721,555,680,592,622,657
+Southland,Family violence  ,497,564,550,529,447,457,396,346,320,380
